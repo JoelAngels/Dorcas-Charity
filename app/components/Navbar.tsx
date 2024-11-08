@@ -32,7 +32,7 @@ export default function Navbar() {
               Programs
             </a>
             <button className="bg-rose-600 text-white px-6 py-2 rounded-full hover:bg-rose-700 transition">
-              Donate Now
+              <a href="mailto:joelbaraka4325@gmail.com"> Email Now </a>
             </button>
           </div>
 
@@ -79,7 +79,7 @@ export default function Navbar() {
               Programs
             </a>
             <button className="w-full text-center bg-rose-600 text-white px-6 py-2 rounded-full hover:bg-rose-700 transition">
-              Donate Now
+              Email Now
             </button>
           </div>
         </div>
