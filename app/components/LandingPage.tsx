@@ -19,7 +19,7 @@ export default function Hero() {
           </p>
           <div className="flex gap-4">
             <button className="bg-red-500 hover:bg-red-600 text-white px-6 py-3 rounded-lg font-medium transition-colors">
-              <a href="mailto:joelbaraka4325@gmail.com">Donate Now</a>
+              <a href="mailto:joelbaraka4325@gmail.com">Contact Us Now</a>
             </button>
             <button className="bg-white/10 hover:bg-white/20 text-white px-6 py-3 rounded-lg font-medium transition-colors">
               Learn More
